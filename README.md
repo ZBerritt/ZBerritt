@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Zach 👋
 
-<!--
-**ZBerritt/ZBerritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current CS Student & Apsiring Developer
+* Trying out new things everyday
+* Still growing
 
-Here are some ideas to get you started:
+## Interested In
+<p>
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages/Frameworks/Tools I Know
+[![I Know](https://skillicons.dev/icons?i=js,ts,html,css,python,java,nodejs,cs,mysql,postgres)](https://skillicons.dev)
+
+## Languages/Frameworks/Tools I'm Learning
+
+[![I'm Learning](https://skillicons.dev/icons?i=vue,react,svelte,mongo)](https://skillicons.dev)
