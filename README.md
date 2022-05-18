@@ -2,7 +2,8 @@
 
 ## Current CS Student & Apsiring Developer
 * Trying out new things everyday
-* Still growing
+* Willing to learn
+* Nerd
 
 ## Interested In
 <p>
@@ -23,3 +24,6 @@
 ## Languages/Frameworks/Tools I'm Learning
 
 [![I'm Learning](https://skillicons.dev/icons?i=vue,react,svelte,mongo)](https://skillicons.dev)
+
+## Website/Portfolio
+\[UNDER CONSTRUCTION\]
