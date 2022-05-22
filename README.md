@@ -1,9 +1,6 @@
 ### Hi, I'm Zach 👋
 
-## Current CS Student & Apsiring Developer
-* Trying out new things everyday
-* Willing to learn
-* Nerd
+# Current CS Student & Apsiring Developer
 
 ## Interested In
 <p>
